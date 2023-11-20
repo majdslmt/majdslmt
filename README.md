@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Majed Mark Salem software engineer (C#, python, nodejs, Dart )
 - 👀 I’m interested in robot, cloud, quantum computing, AI/ML, space, 
 - 🌱 I’m currently learning AI/ML and self driving car
 - 📫 How to reach me @mail majd.slmt@gmail.com, 
